@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Omar Mahir
+- 👀 I’m interested in Software Development and Data Science
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me --> on Linkedin https://www.linkedin.com/in/omarmahir44/
